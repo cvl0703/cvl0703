@@ -56,6 +56,25 @@ I am currently looking for a company where I can transition into a full-time rol
 
 ---
 
+## Featured Projects
+
+### AutoAPI - No-Code REST API Creation & Management System
+*Final Degree Project (TFG) for Multi-platform Application Development (DAM) · IES Zaidín Vergeles (2025-2026)*
+
+A comprehensive cloud platform that allows users to build, deploy, and manage their own custom REST APIs from a mobile app or web dashboard without writing code or managing servers. 
+
+The system fully automates the backend microservice lifecycle by generating source code, building customized Docker images, spinning up isolated containers, and configuring a reverse proxy for immediate public URL access.
+
+* **Tech Stack:** `React.js`, `React Native`, `Docker`, `PHP / Laravel` (or your chosen generation languages), `AWS`, `Databases` (Relational & NoSQL).
+* **Key Features:**
+  * **Dynamic Architecture:** Automated generation of production-ready source code based on user-defined table structures and endpoints.
+  * **DevOps & Cloud Automation:** On-the-fly Docker image creation and container orchestration using cloud-hosted open-source tools.
+  * **Cross-Platform Management:** Full control over API configurations, deployment status, and database monitoring via a seamless Web Panel and Mobile Application.
+* <a href="https://github.com/egarove/creacion-gestion-apirest-tfg" target="_blank">🔗 View Repository</a>
+
+
+---
+
 ## Languages
 * 🇪🇸 **Spanish:** Native.
 * 🇬🇧 **English:** B2 Upper-Intermediate (Cambridge 2022).
