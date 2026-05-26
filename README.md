@@ -50,8 +50,8 @@ I am currently looking for a company where I can transition into a full-time rol
 
 ## GitHub Stats (Interactive)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvl0703&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Carlos's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvl0703&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvl0703&theme=radical" alt="Carlos's Streak Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvl0703&theme=radical" alt="Top Languages" width="48%">
 </p>
 
 ---
