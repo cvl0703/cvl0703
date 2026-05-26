@@ -70,6 +70,7 @@ The system fully automates the backend microservice lifecycle by generating sour
   * **Dynamic Architecture:** Automated generation of production-ready source code based on user-defined table structures and endpoints.
   * **DevOps & Cloud Automation:** On-the-fly Docker image creation and container orchestration using cloud-hosted open-source tools.
   * **Cross-Platform Management:** Full control over API configurations, deployment status, and database monitoring via a seamless Web Panel and Mobile Application.
+* <a href="https://tfg-dam.libertoguillen.com/" target="_blank">🔗 Link to the work</a>
 * <a href="https://github.com/egarove/creacion-gestion-apirest-tfg" target="_blank">🔗 View Repository</a>
 
 
