@@ -48,7 +48,7 @@ I am currently looking for a company where I can transition into a full-time rol
 
 ---
 
-## GitHub Stats (Interactive)
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvl0703&theme=radical" alt="Carlos's Streak Stats" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvl0703&theme=radical" alt="Top Languages" width="48%">
