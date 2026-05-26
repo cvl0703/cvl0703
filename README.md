@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me
-[cite_start]I am a passionate **Multi-platform Application Development (DAM)** student currently in my second year at *IES Zaidín Vergeles*[cite: 19, 23, 24, 25]. [cite_start]I stand out for my responsibility, teamwork abilities, discipline, and constant drive to learn[cite: 8, 9, 10, 11, 20]. 
+## About Me
+I am a passionate **Multi-platform Application Development (DAM)** student currently in my second year at *IES Zaidín Vergeles*. I stand out for my responsibility, teamwork abilities, discipline, and constant drive to learn. 
 
-[cite_start]I am currently looking for a company where I can transition into a full-time role after completing my internship period[cite: 19]. [cite_start]Beyond standard development, I have a strong background in robotics, containerization, and cloud services.
+I am currently looking for a company where I can transition into a full-time role after completing my internship period. Beyond standard development, I have a strong background in robotics, containerization, and cloud services.
 
-* [cite_start]🌍 Based in: **Granada, Spain** [cite: 3, 24]
-* [cite_start]🎓 Education: Higher Technical Degree in DAM (In progress, 2024 - 2026) [cite: 23, 25]
-* [cite_start]🏆 Fun Fact: Multi-time tech event participant (UGR Computer Science Olympiad & Erasmus+ Robotics in Thessaloniki)[cite: 21, 30, 31, 33].
+* 🌍 Based in: **Granada, Spain**
+* 🎓 Education: Higher Technical Degree in DAM (In progress, 2024 - 2026)
+* 🏆 Fun Fact: Multi-time tech event participant (UGR Computer Science Olympiad & Erasmus+ Robotics in Thessaloniki).
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## My Tech Stack & Tools
 
 ### Frontend & Mobile Development
 <p align="left">
@@ -48,23 +48,23 @@
 
 ---
 
-## 📈 GitHub Stats (Interactive)
+## GitHub Stats (Interactive)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Carlos's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvl0703&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Carlos's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvl0703&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
 ---
 
-## 💬 Languages
-* [cite_start]🇪🇸 **Spanish:** Native[cite: 14].
-* [cite_start]🇬🇧 **English:** B2 Upper-Intermediate (Cambridge 2022)[cite: 15, 16].
-* [cite_start]🇫🇷 **French:** Basic[cite: 17].
+## Languages
+* 🇪🇸 **Spanish:** Native.
+* 🇬🇧 **English:** B2 Upper-Intermediate (Cambridge 2022).
+* 🇫🇷 **French:** Basic.
 
 ---
 
 ## 📬 Connect with Me
-[cite_start]If you are looking for an adaptable, disciplined junior developer who loves building robust applications, let's chat! [cite: 10, 19, 20]
+If you are looking for an adaptable, disciplined junior developer who loves building robust applications, let's chat!
 
-* [cite_start]📧 Email: [cvilleb0703@gmail.com](mailto:cvilleb0703@gmail.com) [cite: 5]
-* [cite_start]📱 Phone: [+34 623 171 347](tel:+34623171347) [cite: 4]
+* 📧 Email: [cvilleb0703@gmail.com](mailto:cvilleb0703@gmail.com)
+* 🌐 linkedin: [here](https://www.linkedin.com/in/carlos-vilad%C3%A9s-leblic-aa109534b/)
