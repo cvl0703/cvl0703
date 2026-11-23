@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-I am a passionate **Multi-platform Application Development (DAM)** student currently in my second year at *IES Zaidín Vergeles*. I stand out for my responsibility, teamwork abilities, discipline, and constant drive to learn. 
+I am a passionate worker that finished recently the **Multi-platform Application Development (DAM)** at *IES Zaidín Vergeles*. I stand out for my responsibility, teamwork abilities, discipline, and constant drive to learn. 
 
-I am currently looking for a company where I can transition into a full-time role after completing my internship period. Beyond standard development, I have a strong background in robotics, containerization, and cloud services.
+I am currently looking for a company where I can transition into a full-time role. Beyond standard development, I have a strong background in robotics, containerization, and cloud services.
 
 * 🌍 Based in: **Granada, Spain**
 * 🎓 Education: Higher Technical Degree in DAM (In progress, 2024 - 2026)
